@@ -19,3 +19,6 @@ component is quite as eye-catching as the membrane keypad
 (label 2), which acts as the primary user interface.
 
 A video demonstration is located here: https://youtu.be/3QXVJ0pLwRI
+
+![Calculator Thumbnail](https://user-images.githubusercontent.com/34201673/183149048-9765f346-cce5-4cdd-b083-2b3f3f0ed0d8.png)
+
